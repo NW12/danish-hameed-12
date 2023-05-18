@@ -1,1 +1,9 @@
-# danish-hameed-12
+## Project setup
+```
+npm install
+```
+
+### Run
+```
+node server.js
+```
