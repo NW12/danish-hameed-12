@@ -44,7 +44,7 @@ async function activityProcessingModule() {
 
 
 
-cron.schedule('*/2 * * * * *',() => {
+cron.schedule('*/5 * * * *',() => {
   activityProcessingModule()
 });
 
